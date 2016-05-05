@@ -1,0 +1,114 @@
+@import url(https://fonts.googleapis.com/css?family=Inconsolata);
+
+@import url(https://fonts.googleapis.com/css?family=Slabo+27px);
+
+body {
+    background: url("http://subtlepatterns2015.subtlepatterns.netdna-cdn.com/patterns/stardust.png") fixed;
+    font-family: sans-serif;
+    padding-bottom: 70px;
+}
+
+/** {
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+}*/
+
+.container-fluid {
+    position: relative;
+    top: 50px;
+}
+
+.view {
+    width: 100%;
+    margin: 0 0 0 0;
+    padding-top: 7%;
+}
+
+#portfolio {
+    padding-top: 3%;
+}
+
+#home {
+    padding-top: 8%;
+}
+
+.btn-group > * {
+    margin: 0 0 0 0;
+}
+
+#homeButtons {
+    margin-top: 3%;
+}
+
+.navbar-collapse {
+    overflow-y: visible;
+}
+
+.navbar-fixed-top,
+body {
+    min-width: 325px;
+}
+
+#portfolio,
+#about {
+    margin: 0 0 0 0;
+}
+
+li {
+    font-size: 18px;
+}
+
+body > .container {
+    padding-top: 60px;
+}
+
+p {
+    text-align: center;
+    vertical-align: middle;
+}
+
+.navbar-brand {
+    font-family: Inconsolata, sans-serif;
+}
+
+button {
+    margin: 5px 10px 5px 10px;
+}
+
+.jumbotron {
+    background-color: transparent;
+    color: #e7e7e7;
+    border-style: solid;
+    border-width: 4px;
+    border-color: #e7e7e7;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+.page-header {
+    color: #e7e7e7;
+}
+
+#home, .email, .about {
+    text-align: center !important;
+}
+
+#jumboContact {
+    margin-top: 6%;
+    margin-bottom: 5%;
+}
+
+#jumboAbout {
+    border-style: none;
+    border-width: 4px;
+    border-color: #e7e7e7;
+}
+
+#phAbout {
+    margin-bottom: 6%;
+}
+
+#contact {
+    padding-top: 4%;
+}
