@@ -75,8 +75,8 @@ var quotes = {
         "Tudo que há no Universo acha-se em perfeita harmonia.",
         "Mesmo que o rosto ou a cor sejam diferentes, para Deus, todos somos uma Única Família.",
         "Torne-se uma pesoa capaz de suportar todos os reveses da vida, aceitando-os com um sorriso.",
-        "Felicidade é fazer a feliidade do outro",
-        "Na vida cotidiana não há coisa mais terrível do que o ego"
+        "Felicidade é fazer a feliidade do outro.",
+        "Na vida cotidiana não há coisa mais terrível do que o ego."
     ]
 }
     
