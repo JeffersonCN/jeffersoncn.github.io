@@ -10,7 +10,7 @@ body {
 
 .well {
     min-height: 300px;
-    margin-top: 13%;  
+    margin-top: 5%;  
     -webkit-box-shadow: 4px 4px 20px 0px rgba(0, 0, 0, 0.46);
     -moz-box-shadow: 4px 4px 20px 0px rgba(0, 0, 0, 0.46);
     box-shadow: 4px 4px 20px 0px rgba(0, 0, 0, 0.46);
