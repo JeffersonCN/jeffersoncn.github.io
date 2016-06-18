@@ -1,6 +1,5 @@
-@import url(https://fonts.googleapis.com/css?family=Inconsolata);
-
-@import url(https://fonts.googleapis.com/css?family=Slabo+27px);
+@font-face { font-family: Inconsolata; src: url('fonts/Inconsolata/Inconsolata-Regular.ttf'); } 
+@font-face { font-family: Inconsolata; font-weight: bold; src: url('fonts/Inconsolata/Inconsolata-Bold.ttf');}
 
 body {
     background: url("http://subtlepatterns2015.subtlepatterns.netdna-cdn.com/patterns/stardust.png") fixed;
