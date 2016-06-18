@@ -2,7 +2,7 @@
 @font-face { font-family: Inconsolata; font-weight: bold; src: url('../fonts/Inconsolata/Inconsolata-Bold.ttf');}
 
 body {
-    background: url("http://subtlepatterns2015.subtlepatterns.netdna-cdn.com/patterns/stardust.png") fixed;
+    background: url("../img/stardust.png") fixed;
     font-family: sans-serif;
     padding-bottom: 70px;
 }
